@@ -66,11 +66,6 @@
         <app.vendor>Acme Inc</app.vendor>
         <app.updateText>正在更新最终版本...</app.updateText>
         <app.whatNew>
-            1.更新至V5.0，需重新下载||
-            2.同时发布安卓版V3.0||
-            3.前往公众号【书虫无书荒】下载最新版本||
-            4.此版本不再维护，停止使用，如需继续使用请自行编译去除此弹窗。
-        </app.whatNew>
     </properties>
     <dependencies>
         <dependency>
